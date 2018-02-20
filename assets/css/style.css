@@ -250,7 +250,6 @@ input[type=submit] {
     margin-right: auto;
     float:right;
   }
-
   #logo{
    margin-left: 50px;
   }
@@ -263,15 +262,18 @@ input[type=submit] {
  .main-section{
   width: 100%;
 }
+
   .sidebar{
   clear: both;
   float:left;
   margin-left: 50px;
   padding-right: 620px;
 }
+
 #connect{
   width:650px;
 }
+
 }
 
 @media screen and (max-width: 640px) {
@@ -280,25 +282,28 @@ input[type=submit] {
     margin-right: 50px;
     margin-top: 50px; 
   }
+
     .sidebar{
     clear: both;
     float:left;
     margin-left: 50px;
     padding-right: 380px;
-    margin-right: 100px;
-    
+    margin-right: 100px;   
   }
+
   #connect{
     width:300px;
-   
   }
+
   #logo{
     width: 100%;
     margin:0;
    }
+
    nav{
     margin-right: 150px;
    }
+   
   .auth-image{
     width: 75%;
     margin-left: 50px;
