@@ -284,10 +284,13 @@ input[type=submit] {
     clear: both;
     float:left;
     margin-left: 50px;
-    padding-right: 510px;
+    padding-right: 380px;
+    margin-right: 100px;
+    
   }
   #connect{
-    width:450px;
+    width:300px;
+   
   }
   #logo{
     width: 100%;
