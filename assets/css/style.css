@@ -284,11 +284,10 @@ input[type=submit] {
   }
 
     .sidebar{
-    clear: both;
-    float:left;
     margin-left: 50px;
-    padding-right: 380px;
-    margin-right: 100px;   
+    padding-right: 305px;
+    margin-right: 100px;  
+    width: 100%; 
   }
 
   #connect{
@@ -303,7 +302,7 @@ input[type=submit] {
    nav{
     margin-right: 150px;
    }
-   
+
   .auth-image{
     width: 75%;
     margin-left: 50px;
